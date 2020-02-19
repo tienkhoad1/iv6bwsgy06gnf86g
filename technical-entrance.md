@@ -5,10 +5,11 @@
 ### Submission Guideline:
 - Fork (copy) this repository.
 - Clone the forked repository in your local computer.
-- In the submission folder, create file(s) to store your answers.
-- Commit your answers.
-- Push the commit(s) to your public repositry in github.
-- Email us the url of your github repository so that we can view your answers.
+- Open the repository folder, create file(s) to store your answers in the submission folder.
+- Answering the 3 questions.
+- Commit your changes.
+- Push the commit(s) to your public repository in github.
+- Send us the url of your github repository so that we can view your answers.
 
 ##  1. Write an algorithm to find missing number
 
