@@ -3,13 +3,12 @@
 ### There are 3 questions, please take a deep breath, keep calm and answer the questions.
 
 ### Submission Guideline:
-- Clone this repository in your local computer.
-- Create a new branch from master, 
-  - name the new branch as your full name. 
-  - E.g: nguyen-duy-anh
+- Fork (copy) this repository.
+- Clone the forked repository in your local computer.
 - In the submission folder, create file(s) to store your answers.
 - Commit your answers.
-- Push the commit to this public repository.
+- Push the commit(s) to your public repositry in github.
+- Email us the url of your github repository so that we can view your answers.
 
 ##  1. Write an algorithm to find missing number
 
