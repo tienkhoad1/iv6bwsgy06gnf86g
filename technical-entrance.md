@@ -1,5 +1,5 @@
 # # Welcome to Hoozing's technical entrance
-### There are 3 questions here, please take a breath and answer them
+### There are 3 questions here, please take a breath, answer them and push your submission in `/submission/`
 
 
 ##  1. Write an algorithm to find missing number
