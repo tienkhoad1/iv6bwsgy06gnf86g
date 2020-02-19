@@ -1,7 +1,15 @@
-# # Welcome to Hoozing's technical entrance
-### There are 3 questions here, please take a deep breath, keep calm and answer the questions
-### create a file to store your answers in the submission folder, commit and then push your commit to this public repository
+# Welcome to Hoozing's technical entrance
 
+### There are 3 questions, please take a deep breath, keep calm and answer the questions.
+
+### Submission Guideline:
+- Clone this repository in your local computer.
+- Create a new branch from master, 
+  - name the new branch as your full name. 
+  - E.g: nguyen-duy-anh
+- In the submission folder, create file(s) to store your answers.
+- Commit your answers.
+- Push the commit to this public repository.
 
 ##  1. Write an algorithm to find missing number
 
@@ -11,7 +19,7 @@
  *Input:* `[2,3,1,4,6,9,7,8,10,7]`
  *Output:* `5`
 
-## 2. Rewrite following method in a correct way
+## 2. Refactoring the following method
 
     public void Register(UserModel user) {
 	    try {
