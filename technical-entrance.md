@@ -1,5 +1,6 @@
 # # Welcome to Hoozing's technical entrance
-### There are 3 questions here, please take a breath, answer them and push your submission in `/submission/`
+### There are 3 questions here, please take a deep breath, keep calm and answer the questions
+### create a file to store your answers in the submission folder, commit and then push your commit to this public repository
 
 
 ##  1. Write an algorithm to find missing number
