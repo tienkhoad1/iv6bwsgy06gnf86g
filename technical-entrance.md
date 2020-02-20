@@ -20,6 +20,7 @@
  *Output:* `5`
 
 ## 2. Refactoring the following method
+####  Refactor the source code and correct the flow. Feel free to add/remove any blocks
 
     public void Register(UserModel user) {
 	    try {
