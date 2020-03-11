@@ -1,0 +1,12 @@
+
+
+select p.Name as [product name], od1.maxSm [NumberOfSellingProducts] from [Product] p 
+left join (
+select od.ProductID , sum(OD.Quality) as total_order,
+       max(sum(OD.Quality)) over() as maxSm from orderdetails od
+       group by od.ProductID
+	   order by sum(od.Quality) desc
+		) as od1 on od1.ProductID = p.ID
+where od1.total_order = od1.maxSm
+
+
